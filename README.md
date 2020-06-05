@@ -4,11 +4,11 @@
 ## run
 
 ```sh
-sketch-assistants --workspace=./workspace.json "./sketch-files/assitants-t2.sketch"
+sketch-assistants --workspace=./workspace.json "./sketch-files/assistants-t2.sketch"
 ```
 
 ```sh
-/local/path/to/packages/cli/bin/cli.js --workspace=./workspace.json "./sketch-files/assitants-t2.sketch"
+/local/path/to/packages/cli/bin/cli.js --workspace=./workspace.json "./sketch-files/assistants-t2.sketch"
 ```
 
 ## Node
@@ -18,7 +18,7 @@ node --version
 v12.18.0
 ```
 
-## sketch-assitants
+## sketch-assistants
 
 ```sh
 sketch-assistants --version
