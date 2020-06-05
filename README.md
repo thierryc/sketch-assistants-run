@@ -25,6 +25,10 @@ sketch-assistants --version
 0.1.0
 ```
 
+```bash
+npx @sketch-hq/sketch-assistant-cli --workspace=./workspace.json "./sketch-files/assistants-t2.sketch"
+```
+
 A local linked version build locally.
 
 Last commit on the master branch is.
