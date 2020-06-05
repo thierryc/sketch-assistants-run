@@ -7,11 +7,15 @@
 sketch-assistants --workspace=./workspace.json "./sketch-files/assitants-t2.sketch"
 ```
 
+```sh
+/local/path/to/packages/cli/bin/cli.js --workspace=./workspace.json "./sketch-files/assitants-t2.sketch"
+```
+
 ## Node
 
 ```sh
 node --version
-v14.4.0
+v12.18.0
 ```
 
 ## sketch-assitants
